@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sandyboii
+- 👋 Hi, I’m Sandhata SHarma
 - 👀 I’m interested in Developing and DSA
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently working as an Associate- Software Devlopment
 - 📫 How to reach me : sandhata.sharma200012@gmail.com
 
 <!---
